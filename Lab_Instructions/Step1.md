@@ -19,6 +19,7 @@ Open a new tab to https://console.aws.amazon.com/systems-manager/home?region=us
 
 Click on `Parameter Store` on the menu on the `left`
 
+<br />
 
 ## `DBUser` Parameter
 
@@ -41,7 +42,7 @@ Set `Value` to `a4lwordpressuser`
 Click `Create parameter`
 
 
-
+<br />
 
 
 ## `DBName` Parameter
@@ -63,7 +64,7 @@ Set `Value` to `a4lwordpressdb`
 
 Click `Create parameter`
 
-
+<br />
 
 ## `DBEndpoint` Parameter
 
@@ -85,7 +86,7 @@ Set `Value` to `localhost`
 
 Click `Create parameter`
 
-
+<br />
 
 ## `DBPassword` Parameter
 
@@ -109,7 +110,7 @@ Set `Value` to `4n1m4l54L1f3` 
 
 Click `Create parameter`
 
-
+<br />
 
 ## `DBRootPassword` Parameter
 
